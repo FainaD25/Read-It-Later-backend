@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a backend application built with Java and Gradle. This README will guide you through the steps to build, run, and Dockerize the application.
+This is a backend application built with Java and Gradle. This README will guide you through the steps to build, run, and Dockerize the application. Authors: Karoliina Kannik, Aet-Kadi Kald, Faina Dõmša
 
 ## Project introduction
 
